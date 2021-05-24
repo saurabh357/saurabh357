@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @saurabh357
 - 👀 I’m interested in software anmd web development.
-- 🌱 I’m currently learning computer applications.
+- 🌱 I’m currently doing MCA From VIT-Bhopal.
+- I can Create website user interfaces by using standard HTML and CSS.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...
 
