@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @saurabh357 a FULL STACK DEVELOPER.
-- 👀 I’m interested in software anmd web development.
-- 🌱 I’m currently doing MCA From VIT-Bhopal.
-- I can Create website user interfaces by using standard HTML and CSS.
+- 👋 Hi, I’m @saurabh357 and I am a Software Engineer.
+- 👀 I’m interested in software anmd App development.
+- 🌱 I have done MCA From VIT-Bhopal.
 - 💞️ I’m looking to collaborate on projects.
 
 
